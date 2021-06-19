@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vba-api/vba-api.iml" filepath="$PROJECT_DIR$/vba-api/vba-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vba-api/vba-api-system.iml" filepath="$PROJECT_DIR$/vba-api/vba-api-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vba-auth/vba-auth.iml" filepath="$PROJECT_DIR$/vba-auth/vba-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vba-common/vba-common.iml" filepath="$PROJECT_DIR$/vba-common/vba-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vba-gateway/vba-gateway.iml" filepath="$PROJECT_DIR$/vba-gateway/vba-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vba-modules/vba-modules.iml" filepath="$PROJECT_DIR$/vba-modules/vba-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vba-api/vba-system-api/vba-system-api.iml" filepath="$PROJECT_DIR$/vba-api/vba-system-api/vba-system-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vba-visual/vba-visual.iml" filepath="$PROJECT_DIR$/vba-visual/vba-visual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vba-visual/vba-visual-monitor/vba-visual-monitor.iml" filepath="$PROJECT_DIR$/vba-visual/vba-visual-monitor/vba-visual-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vue-boot-admin.iml" filepath="$PROJECT_DIR$/vue-boot-admin.iml" />
+    </modules>
+  </component>
+</project>

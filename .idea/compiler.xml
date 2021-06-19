@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vba-auth" />
+        <module name="vba-common" />
+        <module name="vba-gateway" />
+        <module name="vba-system-api" />
+        <module name="vba-visual-monitor" />
+      </profile>
+      <profile name="Annotation profile for gateway" enabled="true">
+        <sourceOutputDir name="../gateway/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../gateway/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gateway" target="1.8" />
+      <module name="vba-api" target="1.5" />
+      <module name="vba-api-system" target="1.5" />
+      <module name="vba-auth" target="1.5" />
+      <module name="vba-common" target="1.5" />
+      <module name="vba-gateway" target="1.5" />
+      <module name="vba-modules" target="1.5" />
+      <module name="vba-system-api" target="1.5" />
+      <module name="vba-visual" target="1.5" />
+      <module name="vba-visual-monitor" target="1.5" />
+      <module name="vue-boot-admin" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
